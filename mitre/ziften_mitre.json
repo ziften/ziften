@@ -17,22 +17,11 @@
 	"viewMode": 0,
 	"hideDisabled": false,
 	"techniques": [
-        {
-            "color": "#ff6666",
-            "comment": "Notable Event created",
-            "techniqueID": "T1068"
-        },
-
-       {
-            "color": "#ff6666",
-            "comment": "Notable Event created",
-            "techniqueID": "T1156"
-		},
-		{
-            "color": "#ff6666",
-            "comment": "Notable Event created",
-			"techniqueID": "T1203"
-		}
+		{ "color": "#ff6666", "comment": "Notable Event created", "techniqueID": "T1002" },
+		{ "color": "#ff6666", "comment": "Notable Event created", "techniqueID": "T1068" },
+		{ "color": "#ff6666", "comment": "Notable Event created", "techniqueID": "T1110" },
+		{ "color": "#ff6666", "comment": "Notable Event created", "techniqueID": "T1156" },
+		{ "color": "#ff6666", "comment": "Notable Event created", "techniqueID": "T1203" }
 	],
 
 	"gradient": {
