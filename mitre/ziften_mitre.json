@@ -1,5 +1,5 @@
 {
-	"name": "layer",
+	"name": "Notable Events",
 	"version": "2.1",
 	"domain": "mitre-enterprise",
 	"description": "",
@@ -16,7 +16,25 @@
 	"sorting": 0,
 	"viewMode": 0,
 	"hideDisabled": false,
-	"techniques": [],
+	"techniques": [
+        {
+            "color": "#ff6666",
+            "comment": "Notable Event created",
+            "techniqueID": "T1068"
+        },
+
+       {
+            "color": "#ff6666",
+            "comment": "Notable Event created",
+            "techniqueID": "T1156"
+		},
+		{
+            "color": "#ff6666",
+            "comment": "Notable Event created",
+			"techniqueID": "T1203"
+		}
+	],
+
 	"gradient": {
 		"colors": [
 			"#ff6666",
