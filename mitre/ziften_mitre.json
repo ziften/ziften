@@ -35,7 +35,8 @@
 		{ "color": "#A9CCE3", "comment": "Notable Event created  with Atomic test", "techniqueID": "T1056" },
 		{ "color": "#A9CCE3", "comment": "Notable Event created  with Atomic test", "techniqueID": "T1059" },
 		{ "color": "#A9CCE3", "comment": "Notable Event created  with Atomic test", "techniqueID": "T1068" },
-		{ "color": "#A9CCE3", "comment": "Notable Event created  with Atomic test", "techniqueID": "T1069" }
+		{ "color": "#A9CCE3", "comment": "Notable Event created  with Atomic test", "techniqueID": "T1069" },
+		{ "color": "#A9CCE3", "comment": "Notable Event created  with Atomic test", "techniqueID": "T1087" }
 		
 	],
 
